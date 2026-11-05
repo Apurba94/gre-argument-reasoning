@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-argument-reasoning", "title": "Argument Reasoning Trainer", "exam": "GRE", "area": "GRE Verbal", "desc": "Find the assumption, then strengthen or weaken short arguments, as in GRE critical reading questions.", "content": ["arguments.json"], "n": 7};
